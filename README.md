@@ -30,7 +30,7 @@ Submissions will be evaluated holistically and based on a combination of effort,
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file. However, we highly recommend giving the challenge a try, you just might learn something new!
 
-## []Solution
+## Solution
 
 This code utilizes the two most popular models for sentiment analysis - NLTK’s VADER and TextBlob. Vader was mainly utilized to analyze the text and provide a sentiment score for each sentence individually and a score for the entire passage holistically. TextBlob was mainly utilized to further analyze the text and each sentence by calculating a numerical value for how subjective the phrase is.
 
@@ -38,7 +38,7 @@ The result this program returns are the sentiment score and the subjectivity sco
 
 The sentiment score the program gave the input text was a .99, which seems to contrast the sentence-by-sentence analysis. A sentiment score of .99 implies it is extremely positive, however, the data table of sentences shows plenty of neutral and extremely negative sentences. An expected score or a more appropriate score, in my opinion, would range between .65 - .75, indicating it’s mostly positive, but also acknowledging the negative and neutral sentences. The subjective score provided by the program is .5 which means it’s nearly split between objective and subjective statements. This, in my opinion is to be expected as the beginning of the text seemed to be objective but towards the end, the text consisted of emotional statements.
 
-## [] Sources
+## Sources
 
 https://github.com/Ankit152/IMDB-sentiment-analysis/blob/master/imdbSentimentAnalysis.ipynb - ideas for how to filter text
 
