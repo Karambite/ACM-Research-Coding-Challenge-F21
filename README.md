@@ -41,8 +41,13 @@ The sentiment score the program gave the input text was a .99, which seems to co
 ## [] Sources
 
 https://github.com/Ankit152/IMDB-sentiment-analysis/blob/master/imdbSentimentAnalysis.ipynb - ideas for how to filter text
+
 https://medium.com/@rahulvaish/textblob-and-sentiment-analysis-python-a687e9fabe96 - Understanding TextBlob
+
 https://textblob.readthedocs.io/en/dev/ - TextBlob Documentation
+
 https://docs.python.org/3/library/re.html#writing-a-tokenizer - re library Documentation
+
 https://www.nltk.org/ - nltk Documentation
+
 
